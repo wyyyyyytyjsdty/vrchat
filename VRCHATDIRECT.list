@@ -23,6 +23,6 @@ DOMAIN,theme.zdassets.com
 DOMAIN,use.fontawesome.com
 DOMAIN,vrchat.zendesk.com
 DOMAIN,ns.photonengine.io
-DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,gaming-sdk.com
-DOMAIN-SUFFIX,amplitude.com
+DOMAIN,cdp.cloud.unity3d.com
+DOMAIN,config.uca.cloud.unity3d.com
+DOMAIN,latency.media.gaming-sdk.com
