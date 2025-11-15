@@ -1,7 +1,3 @@
-AND,((NETWORK,UDP),(DST-PORT,5055))
-AND,((NETWORK,UDP),(DST-PORT,5056))
-AND,((NETWORK,UDP),(DST-PORT,5058))
-AND,((NETWORK,UDP),(DST-PORT,27000-27100))
 DOMAIN,api.vrchat.cloud
 DOMAIN,pipeline.vrchat.cloud
-DOMAIN,ns.photonengine.io
+DOMAIN,assets.vrchat.com
